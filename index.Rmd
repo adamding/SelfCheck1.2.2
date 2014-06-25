@@ -2,7 +2,7 @@
 title       : Self-Check Questions (ungraded)
 subtitle    : R Basic
 author      : Aidong Adam Ding
-job         : Statistics Professor
+job         : Statistics Professors
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : solarized_dark      # 
