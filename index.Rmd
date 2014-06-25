@@ -1,0 +1,36 @@
+---
+title       : Self-Check Questions (ungraded)
+subtitle    : R Basic
+author      : Aidong Adam Ding
+job         : Statistics Professor
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : solarized_dark      # 
+widgets     : [mathjax, quiz, bootstrap]            # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft}
+knit        : slidify::knit2slides
+
+--- &radio
+
+## Question 1: 
+
+What are the results for the following code?
+```{r, eval=FALSE}
+(1==2)|(3==3)
+(pi>3) & (0>=0)
+```
+
+1. T, F
+2. F, T
+3. _T, T_
+4. F, F
+
+
+*** .hint
+Recall the logic operation rules 
+
+*** .explanation
+3==3 is T, "|" is "or"
+
+pi>3 is T, and 0>=0 is T
+
